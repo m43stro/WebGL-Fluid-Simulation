@@ -2,7 +2,7 @@
 
 [Play here](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
 
-<img src="/screenshot.jpg?raw=true" width="880">
+<img src="/logo.png?raw=true" width="512">
 
 ## References
 
